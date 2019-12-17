@@ -1,4 +1,4 @@
-# Algorithms
+# algorithms
 This is my daily practice project about Algorithms.
 Language: python.
 IDE: Pycharm.
